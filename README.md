@@ -1,3 +1,5 @@
+<div style="direction:ltr;">
+
 
 <h1>
 آموزش رفع ارور Stopped Working بازی موش سرآشپز: 
@@ -28,3 +30,4 @@ Intel Pentium III
 100MB
 
 Windows 7, 8.1, 10
+</div>
