@@ -17,14 +17,18 @@ Download!</a>
 حجم بازی موش سرآشپز: 745 مگابایت
 
 
-سیستم عامل	
+سیستم عامل
+
 2000
  
 پردازنده	
+
 Intel Pentium III
  
 حافظه سیستم	256 MB	 
+
 درایو هارد دیسک	1 GB	 
+
 کارت گرافیک	DirectX 9 compatible  <a href="http://dl1.wikishare.ir/sdlftpuser02/96/01/25/Microsoft.DirectX.End-User.Redistributable_9.0c.June_2010_Windows.rar">Download!</a>
 
 100MB
